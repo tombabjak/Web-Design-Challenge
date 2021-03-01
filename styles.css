@@ -25,18 +25,12 @@ body {
 }
 
 @media (max-width: 576px) {
-  .navbar {
-    padding: 10px;
-  }
-  .navbar li {
-    display: inline-block;
-    padding: 0px;
-    cursor: pointer;
-    border-radius: 3px;
-  }
-  
-  #nav-select {
-    visibility: hidden;
+  .navbar-brand {
+    padding: 5px;
+    background: #6ea1b1;
+    border-radius: 5px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
   }
 }
 
