@@ -70,3 +70,11 @@ h3 {
 .img-cont:hover {
   padding:2px;
 }
+
+.col-lg-6.col-md-12 img {
+  width: 100%;
+}
+
+.col-lg-8.col-md-12 img {
+  width: 100%;
+}
